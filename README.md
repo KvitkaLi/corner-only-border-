@@ -4,6 +4,7 @@ Corner-Only Border Around An Image
 Давайте розберемо його частинами:
 HTML
 <img src="https://picsum.photos/id/1068/250/250">
+
 CSS
 img {
   --s: 80px; /* corner size */
